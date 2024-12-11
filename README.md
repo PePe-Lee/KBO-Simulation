@@ -113,7 +113,7 @@ KBO 리그의 투수와 타자 데이터를 활용해 팀 간 시뮬레이션을
 ![image](https://github.com/user-attachments/assets/1275b43e-597a-4d82-b752-8e66a0ed5e5e)
 
 실행: 프로젝트 폴더에서 main.py를 들어가 xslx경로를 본인이 컴퓨터에 맞게 변경 
-main.py 작동
+KBO.py 작동
 
 
 ## 창의적인 요소
